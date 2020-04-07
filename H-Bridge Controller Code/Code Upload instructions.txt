@@ -1,0 +1,13 @@
+Microcontroller: Atmega8A
+Burner device: USBasp
+Burner Software: Extreme Burner
+
+Atmega8 External crystal: 4MHz
+
+Fuse Bit For atmega8
+--------------------------------------
+Low FUSE: EF
+HIGH Fuse: C9
+---------------------------------------
+
+HEX file :SPWM.hex
